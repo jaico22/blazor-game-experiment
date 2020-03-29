@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BlazoreGameEngine.GraphicsEngine\BlazoreGameEngine.GraphicsEngine.csproj" />
+  </ItemGroup>
+</Project>

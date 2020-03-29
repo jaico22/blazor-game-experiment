@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGameEngine", "BlazorGameEngine.csproj", "{BA2D3B94-8EAC-4114-A99B-7A1D8E86CC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazoreGameEngine.GraphicsEngine", "BlazoreGameEngine.GraphicsEngine\BlazoreGameEngine.GraphicsEngine.csproj", "{BEE91DB7-8DDC-4A07-B317-B7E2D758C328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGameEngine.Models", "BlazorGameEngine.Models\BlazorGameEngine.Models.csproj", "{2564D994-87A3-43D0-9909-61C858D730EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGameEngine.Core", "BlazorGameEngine.Core\BlazorGameEngine.Core.csproj", "{48BFB0B8-AFE3-49A5-B427-802C3D6FAE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGameEngine.GraphicsDemo", "BlazorGameEngine.GraphicsDemo\BlazorGameEngine.GraphicsDemo.csproj", "{E40890CD-6524-4490-819F-458A326A862C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2D3B94-8EAC-4114-A99B-7A1D8E86CC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2D3B94-8EAC-4114-A99B-7A1D8E86CC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2D3B94-8EAC-4114-A99B-7A1D8E86CC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2D3B94-8EAC-4114-A99B-7A1D8E86CC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE91DB7-8DDC-4A07-B317-B7E2D758C328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE91DB7-8DDC-4A07-B317-B7E2D758C328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE91DB7-8DDC-4A07-B317-B7E2D758C328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE91DB7-8DDC-4A07-B317-B7E2D758C328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2564D994-87A3-43D0-9909-61C858D730EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2564D994-87A3-43D0-9909-61C858D730EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2564D994-87A3-43D0-9909-61C858D730EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2564D994-87A3-43D0-9909-61C858D730EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BFB0B8-AFE3-49A5-B427-802C3D6FAE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BFB0B8-AFE3-49A5-B427-802C3D6FAE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BFB0B8-AFE3-49A5-B427-802C3D6FAE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BFB0B8-AFE3-49A5-B427-802C3D6FAE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40890CD-6524-4490-819F-458A326A862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40890CD-6524-4490-819F-458A326A862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40890CD-6524-4490-819F-458A326A862C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40890CD-6524-4490-819F-458A326A862C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
